@@ -23,7 +23,7 @@ Credenza is a powerful certificate management web application that simplifies th
 
 ```sh
 git clone https://github.com/Kailas-Nath-K-S/Certiapp.git
-cd Certiapp
+cd certiapp
 ```
 
 ### 🏗️ Run Using Docker Compose:
